@@ -1,0 +1,77 @@
+@charset "utf-8";
+
+a{
+	text-decoration: none;
+}
+
+.card {
+	border: 1px solid #EFEFEF;
+}
+
+.col-sm-3{
+	padding-bottom: 30px;
+}
+
+.card-body{
+	flex: 1 1 auto;
+    min-height: 1px;
+    padding: 20px;
+    height: 388px;
+}
+.tags{
+	color: #242424;
+	font-family: 'Kanit',sans-serif;
+	font-size: 20px;
+	font-weight: 200;
+}
+
+.tags{
+	color: #242424;
+	font-family: 'Kanit',sans-serif;
+	font-size: 20px;
+	font-weight: 200;
+}
+
+.btn-success{
+	background-color: #c0aa83;
+	border-color: #c0aa83;
+	color: #fff;
+}
+
+.btn-success:hover{
+	background-color: #242424;
+	border-color: #242424;
+	color: #fff;
+}
+
+.card-title{
+	color: #c0aa83;
+	font-family: 'Kanit',sans-serif;
+	font-size: 18px;
+	font-weight: 900;
+	line-height:1.8rem;
+	height: 3.6rem;
+	overflow: hidden;
+	display: block;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+}
+
+.card-text{
+	font-family: 'Kanit',sans-serif;
+	margin: 10px
+}
+
+
+
+.button-text{
+	font-family: 'Kanit',sans-serif;
+	font-size: 14px;
+	font-weight: 900;
+}
+
+.product-image{
+	width: 200px;
+	height: 200px;
+}
